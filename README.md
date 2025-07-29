@@ -47,11 +47,17 @@ Deployment: Streamlit used to create a web interface for resume upload and predi
 #📂 Folder Structure
 
 📁 Resume_Screening_NLP
+
 ├── resume_screening_using_nlp.py      # Main Streamlit app
+
 ├── clf.pkl                            # Trained KNN classifier
+
 ├── tfidf.pkl                          # Saved TF-IDF vectorizer
+
 ├── resume_dataset.csv                 # Resume data (if available)
+
 ├── README.md                          # Project documentation
+
 
 #🔍 Sample Categories
 
